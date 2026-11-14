@@ -1,15 +1,8 @@
-# Python Projects & Practice
+# python-project
 
-A collection of Python scripts, exercises, and experiments as part of my programming journey.
+Practice scripts and exercises for learning Python.
 
-## Structure
-
-- `hello.py` - Classic entry point script.
-- `demo.py` - Variable types and formatted output demonstration.
-
-## Running Scripts
-
-Ensure Python 3 is installed:
+## Running
 
 ```bash
 python hello.py
